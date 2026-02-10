@@ -30,7 +30,7 @@
 ---
 
 ## 🌟 Overview
-https://github.com/InsanityChain/ifix-u-pay/blob/main/screenshot.PNG
+
 **IFix U Pay** is a cutting-edge, award-caliber Point of Sale (POS) web application meticulously crafted for mobile repair technicians and entrepreneurs. Built with a sleek, modern interface inspired by AWWARDS and WEBBY design standards, this tool transforms how small businesses manage repairs, sales, and customer relationships.
 
 No backend required. No subscriptions. Just pure, elegant functionality that works instantly in any browser.
